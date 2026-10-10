@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Sou estudante de Engenharia Informática
 
-<!--
-**dilolopedro/dilolopedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub!
 
-Here are some ideas to get you started:
+Sou estudante de Engenharia Informática e estou a desenvolver as minhas competências em programação, com foco no desenvolvimento Web Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actualmente estou a aprender
+
+- HTML e CSS
+- JavaScript
+- Lógica de programação e algoritmos
+- Git e GitHub
+- Desenvolvimento de aplicações Web
+
+## Os meus objectivos
+
+- Construir uma base sólida em programação.
+- Desenvolver projectos práticos e úteis.
+- Aprender desenvolvimento Front-end e Back-end.
+- Criar aplicações completas, desde a interface até à base de dados.
+
+## Projectos
+
+Estou a trabalhar na minha evolução como programador e pretendo partilhar aqui os meus exercícios, experiências e projectos pessoais.
+
+## Contacto
+
+Podes acompanhar a minha evolução através dos repositórios deste perfil.
+
+---
+
+*Aprender, praticar, construir e melhorar continuamente.*
